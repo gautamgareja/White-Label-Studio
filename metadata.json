@@ -1,0 +1,6 @@
+{
+  "name": "White Label Studio",
+  "description": "Analyze existing web applications from URL, extract structured architecture and design tokens, and generate pristine white-label versions with custom branding.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
